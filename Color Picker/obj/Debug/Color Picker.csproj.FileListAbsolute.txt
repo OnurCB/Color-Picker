@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\Administrator\Desktop\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\Administrator\Desktop\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color Picker.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color Picker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color_Picker.Form1.resources
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color Picker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\Administrator\Desktop\Color Picker\obj\Debug\Color Picker.pdb
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\bin\Debug\Color Picker.exe.config
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\bin\Debug\Color Picker.exe
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\bin\Debug\Color Picker.pdb
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color Picker.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color Picker.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color_Picker.Form1.resources
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color_Picker.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color Picker.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color Picker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color Picker.exe
+C:\Users\Administrator\Desktop\Minimalist Yazılımlar\C#\Color Picker\obj\Debug\Color Picker.pdb
